@@ -1,5 +1,5 @@
 ## Mark Bachurin
-Data Engineering Intern @ JetBrains (2025) · Software & Data Engineering Student @ Constructor University
+Data Engineering Intern @ JetBrains (2025) · Software, Data and Technology Student @ Constructor University
 
 Building data pipelines, ETL systems, and backend APIs.
 
