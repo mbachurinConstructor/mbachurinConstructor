@@ -3,7 +3,7 @@ Data Engineering Intern @ JetBrains (2025) · Software, Data and Technology Stud
 
 Building data pipelines, ETL systems, and backend APIs.
 
-**Stack:** Python · SQL · Airflow · PostgreSQL · AWS S3 · Docker · FastAPI
+**Stack:** Python · SQL · Airflow · PostgreSQL · AWS S3 · Docker · FastAPI · Django
 
 📍 Bremen, Germany  
 🔗 [LinkedIn](https://www.linkedin.com/in/mark-bachurin-09a3793b6/) · [CV](https://github.com/mbachurinConstructor/Mark-Bachurin-CV)
